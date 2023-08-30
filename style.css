@@ -1,0 +1,7 @@
+body {
+    background: blue;
+    text-align: center;
+    border: greenyellow;
+    border-style: double;
+    border-width: "5px"
+}
